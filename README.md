@@ -5,4 +5,4 @@ For More Info Refer to report.md file.
 -----------------------------------------------------------------
 
 
-# I need to compile the whole code in the ss7 header stack...so qorking on it..
+# I need to compile the whole code in the ss7 header stack...so working on it..
